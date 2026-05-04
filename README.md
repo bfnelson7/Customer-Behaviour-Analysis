@@ -23,12 +23,12 @@ In order to evaluate customer behaviour, focus was placed on the following areas
 ### Age and Gender Purchase Behaviour
   Young Adults account for the highest total revenue at $80,508, followed by Middle Aged customers ($76,927), Senior ($72.160), and Adults($71,755). The distribution is notably balanced, though young adults present the strongest opportunity for loyalty  and subscription growth given their higher engagement.
 
-Revenue segmentation by Gender shows a close split between male and female customers, indicationg that neither gender is a significantly stronger revenue driver- marketing and inventory descisions should serve both segments equirably.
+Revenue segmentation by Gender shows a close split between male and female customers, indicating that neither gender is a significantly stronger revenue driver- marketing and inventory descisions should serve both segments equitably.
 
 ### Subscriptions, Discounts and Loyalty
   Subscribed customers do not spend significantly more than  on average than non-subscribers. This suggests that the subscription programme may not be tied to purchase incentives. This points to an opportunity to redesign the programme with spend-based rewards or exclusive access.
 
-  When it comes to discounts, the analysis reveals that certain items - particularly within the Clothing and Accessories categories- are purchased predominantly with a discount applied. There are also a significant number of customers who used discount codes yet spent more than the average spend, confirming that discounting can attract moderate-to-high value customers when applied strategically ratjer than broadly.
+  When it comes to discounts, the analysis reveals that certain items - particularly within the Clothing and Accessories categories- are purchased predominantly with a discount applied. There are also a significant number of customers who used discount codes yet spent more than the average spend, confirming that discounting can attract moderate-to-high value customers when applied strategically rather than broadly.
 
   Among customers within the returning tier, the split between subscribed and non-subscribed is notable- repeat buyers are not reliably converting to subscriptions, further emphasizing customers may not see the values in the subcription packages offered.
 
@@ -44,7 +44,7 @@ Revenue segmentation by Gender shows a close split between male and female custo
 **1. Redesign the Subscription programme with spend based incentives.**
 Since subcribers do not currently out-spend non-subcribers on average, introducing a tiered system that rewards cumulative spend or purchase frequency would create a direct financial incentive and improve retention rates.
 
-**2. Rationalise distcount strategy by product.**
+**2. Rationalise discount strategy by product.**
 Items with high discount dependency should be reviewed for margin impact. Targeted discounting — applied to above-average spenders rather than broad promotional codes — would preserve revenue while maintaining customer acquisition benefits.
 
 **3. Prioritise young adult engagement and loyalty conversion.**
