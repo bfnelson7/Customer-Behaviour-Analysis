@@ -41,22 +41,22 @@ Revenue segmentation by Gender shows a close split between male and female custo
 --- 
 ## Recommendations
 
-**1. Redesign the Subscription programme with spend based incentives.**
+**1. Redesign the Subscription programme with spend based incentives:**
 Since subcribers do not currently out-spend non-subcribers on average, introducing a tiered system that rewards cumulative spend or purchase frequency would create a direct financial incentive and improve retention rates.
 
-**2. Rationalise discount strategy by product.**
+**2. Rationalise discount strategy by product:**
 Items with high discount dependency should be reviewed for margin impact. Targeted discounting — applied to above-average spenders rather than broad promotional codes — would preserve revenue while maintaining customer acquisition benefits.
 
-**3. Prioritise young adult engagement and loyalty conversion.**
+**3. Prioritise young adult engagement and loyalty conversion:**
 Young adults drive the highest revenue segment. A loyalty conversion programme targeting returning customers in this cohort (through personalised outreach, early access, or subscription trials) could shift a meaningful share into the Loyal tier.
 
-**4. Invest in high-rated product lines for marketing.**
+**4. Invest in high-rated product lines for marketing:**
 Products with above-average ratings (Sandals, Dress, Sweater) are natural candidates for featured marketing placements, social proof campaigns, and review amplification, as they already demonstrate customer satisfaction.
 
-**5. Optimise inventory around top-three products per category.**
+**5. Optimise inventory around top-three products per category:**
 The category-level top-three rankings provide a clear signal for stock prioritisation. During high-demand periods, ensuring these items are well-stocked reduces lost revenue from stockouts.
 
-**6. Explore regional campaigns in high-revenue states.**
+**6. Explore regional campaigns in high-revenue states:**
 Geographic revenue concentration revealed in the map suggests that targeted regional campaigns or pop-up activations in high-performing states could drive further revenue growth with existing brand affinity.
 ---
 ## Dashboard
