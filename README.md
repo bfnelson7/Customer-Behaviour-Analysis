@@ -40,4 +40,43 @@ Revenue segmentation by Gender shows a close split between male and female custo
 
 --- 
 ## Recommendations
+
+**1. Redesign the Subscription programme with spend based incentives.**
+Since subcribers do not currently out-spend non-subcribers on average, introducing a tiered system that rewards cumulative spend or purchase frequency would create a direct financial incentive and improve retention rates.
+
+**2. Rationalise distcount strategy by product.**
+Items with high discount dependency should be reviewed for margin impact. Targeted discounting — applied to above-average spenders rather than broad promotional codes — would preserve revenue while maintaining customer acquisition benefits.
+
+**3. Prioritise young adult engagement and loyalty conversion.**
+Young adults drive the highest revenue segment. A loyalty conversion programme targeting returning customers in this cohort (through personalised outreach, early access, or subscription trials) could shift a meaningful share into the Loyal tier.
+
+**4. Invest in high-rated product lines for marketing.**
+Products with above-average ratings (Sandals, Dress, Sweater) are natural candidates for featured marketing placements, social proof campaigns, and review amplification, as they already demonstrate customer satisfaction.
+
+**5. Optimise inventory around top-three products per category.**
+The category-level top-three rankings provide a clear signal for stock prioritisation. During high-demand periods, ensuring these items are well-stocked reduces lost revenue from stockouts.
+
+**6. Explore regional campaigns in high-revenue states.**
+Geographic revenue concentration revealed in the map suggests that targeted regional campaigns or pop-up activations in high-performing states could drive further revenue growth with existing brand affinity.
+---
+## Dashboard
+---
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/frank.baruch.kwaku.nelson/viz/Customerbehaviourdashboard/Dashboard1). This dashboard enebles users to filter by individual items purchased, age, location and size and focuses on Revenue generated and market metrics.
 <img width="2046" height="1534" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/5d535e10-0389-4afe-b10d-167cfaec5a44" />
+
+---
+## Further work & Next Steps
+- While this project surfaces meaningful insights from the available data, several avenues remain open for deeper investigation. Enriching the dataset with marketing channel, returns, and time-of-purchase data would strengthen the behavioural model considerably.
+- A/B testing a redesigned subscription offer against the current programme would validate the recommendation to restructure spend-based incentives
+- A city-level breakdown of the geographic revenue data could identify high-potential markets not yet captured in the state-level view
+
+---
+ ### Skills Used
+ | Area | Tools & Technologies |
+|---|---|
+| Programming | Python (Pandas, NumPy, Matplotlib, Seaborn) |
+| Database | MySQL, SQLAlchemy, PyMySQL |
+| Query Language | SQL (CTEs, window functions, subqueries, aggregations) |
+| Visualisation | Tableau, Seaborn, Matplotlib |
+| Data Wrangling | Feature engineering, missing value imputation, data type normalisation |
+| Environment | Jupyter Notebook |
