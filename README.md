@@ -26,7 +26,7 @@ In order to evaluate customer behaviour, focus was placed on the following areas
 Revenue segmentation by Gender shows a close split between male and female customers, indicating that neither gender is a significantly stronger revenue driver- marketing and inventory descisions should serve both segments equitably.
 
 ### Subscriptions, Discounts and Loyalty
-  Subscribed customers do not spend significantly more than  on average than non-subscribers. This suggests that the subscription programme may not be tied to purchase incentives. This points to an opportunity to redesign the programme with spend-based rewards or exclusive access.
+  Subscribed customers do not spend significantly more on average than non-subscribers. This suggests that the subscription programme may not be tied to purchase incentives. This points to an opportunity to redesign the programme with spend-based rewards or exclusive access.
 
   When it comes to discounts, the analysis reveals that certain items - particularly within the Clothing and Accessories categories- are purchased predominantly with a discount applied. There are also a significant number of customers who used discount codes yet spent more than the average spend, confirming that discounting can attract moderate-to-high value customers when applied strategically rather than broadly.
 
