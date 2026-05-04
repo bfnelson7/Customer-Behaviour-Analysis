@@ -40,3 +40,4 @@ Revenue segmentation by Gender shows a close split between male and female custo
 
 --- 
 ## Recommendations
+<img width="2046" height="1534" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/5d535e10-0389-4afe-b10d-167cfaec5a44" />
