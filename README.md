@@ -36,7 +36,7 @@ Revenue segmentation by Gender shows a close split between male and female custo
   Review scores show that the strongest products customers are satisfied with include Sandals (3.85) and Dresses (3.76) among others. This suggest that these footwear and clothing sub-segments could be leveraged in marketing, as also buttresed by the revenue their categories generate.
 
 ### Geographical Revenue Distribution
-  Geographic  analysis reveals revenue concentration in specific states, with several mid-western and eastern states showing high revenue density. this can inform regional marketing amd potential physical or pop-up retail strategies.
+  Geographic  analysis reveals revenue concentration in specific states, with several mid-western and eastern states showing high revenue density. This can inform regional marketing and potential physical or pop-up retail strategies.
 
 --- 
 ## Recommendations
