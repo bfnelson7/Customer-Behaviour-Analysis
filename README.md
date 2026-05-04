@@ -62,7 +62,7 @@ Geographic revenue concentration revealed in the map suggests that targeted regi
 ---
 ## Dashboard
 ---
-The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/frank.baruch.kwaku.nelson/viz/Customerbehaviourdashboard/Dashboard1). This dashboard enebles users to filter by individual items purchased, age, location and size and focuses on Revenue generated and market metrics.
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/frank.baruch.kwaku.nelson/viz/Customerbehaviourdashboard/Dashboard1). This dashboard enabels users to filter by individual items purchased, age, location and size and focuses on Revenue generated and market metrics.
 <img width="2046" height="1534" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/5d535e10-0389-4afe-b10d-167cfaec5a44" />
 
 ---
