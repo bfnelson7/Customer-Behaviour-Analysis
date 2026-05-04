@@ -58,6 +58,7 @@ The category-level top-three rankings provide a clear signal for stock prioritis
 
 **6. Explore regional campaigns in high-revenue states:**
 Geographic revenue concentration revealed in the map suggests that targeted regional campaigns or pop-up activations in high-performing states could drive further revenue growth with existing brand affinity.
+
 ---
 ## Dashboard
 ---
