@@ -4,7 +4,7 @@
 ## The goal of this project is to investigate purchasing patterns, loyalty segmentation and revenue drivers across 5,050 customers for Strata & Co., a sample retail clothing brand, in order to surface recommendations on product strategy, discount optimisation and subscription programme peformance.
 ---
 
-This project presents an end-to-end analysis of customer behaviour for a sample clothing retail store. Working across the full analyics pipeline - from raw data ingestion and cleaning through to SQL quering, visualisation and strategic recommendations - the analysis covers 5,050 customers generating a total revenue of $301,350, with an average purchase amount of $59.67 and an average review rating of 3.76/5.
+This project presents an end-to-end analysis of customer behaviour for a sample clothing retail store. Working across the full analysis pipeline - from raw data ingestion and cleaning through to SQL quering, visualisation and strategic recommendations - the analysis covers 5,050 customers generating a total revenue of $301,350.00, with an average purchase amount of $59.67 and an average review rating of 3.76/5.
 
 Key findings reveal that clothing is the dominant revenue category, that young adults drive the highest spending, and that subscription status has limited effect on the average spend. The analysis also identifies which products rely most heavily on discounts and how customer loyalty segments are distributed - insights that directly inform the recommendations are in this report.
 
