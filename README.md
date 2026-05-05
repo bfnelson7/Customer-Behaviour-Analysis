@@ -21,7 +21,7 @@ In order to evaluate customer behaviour, focus was placed on the following areas
   Clothing is the top- peforming category with $135,289 in revenue from 2,250 customers, followed by Accessories ($95,175/1607 customers), Footwear ($46,127/ 7667 customers) and Outerwear ($24,759/ 426 customers). Outerwear has the smallest customer base but a proportionally comparable average purchase amount($58.11/customer vs $60.12/customer for clothing category), suggesting a premium pricing opportunity. 
   
 ### Age and Gender Purchase Behaviour
-  Young Adults account for the highest total revenue at $80,508, followed by Middle Aged customers ($76,927), Senior ($72.160), and Adults($71,755). The distribution is notably balanced, though young adults present the strongest opportunity for loyalty  and subscription growth given their higher engagement.
+  Young Adults account for the highest total revenue at $80,508, followed by Middle Aged customers ($76,927), Seniors ($72,160), and Adults($71,755). The distribution is notably balanced, though young adults present the strongest opportunity for loyalty  and subscription growth given their higher engagement.
 
 Revenue segmentation by Gender shows a close split between male and female customers, indicating that neither gender is a significantly stronger revenue driver- marketing and inventory descisions should serve both segments equitably.
 
