@@ -18,17 +18,17 @@ In order to evaluate customer behaviour, focus was placed on the following areas
 - Geographical Revenue Distribution.
 
 ### Revenue and Sales by Item Category
-  Clothing is the top- peforming category with $135,289 in revenue from 2,250 customers, followed by Accessories ($95,175/1607 customers), Footwear ($46,127/ 7667 customers) and Outerwear ($24,759/ 426 customers). Outerwear has the smallest customer base but a proportionally comparable average purchase amount($58.11/customer vs $60.12/customer for clothing category), suggesting a premium pricing opportunity. 
+  Clothing is the top- peforming category with $135,289 in revenue from 2,250 customers, followed by Accessories ($95,175/1607 customers), Footwear ($46,127/ 767 customers) and Outerwear ($24,759/ 426 customers). Outerwear has the smallest customer base but a proportionally comparable average purchase amount($58.11/customer vs $60.12/customer for clothing category), suggesting a premium pricing opportunity. 
   
 ### Age and Gender Purchase Behaviour
   Young Adults account for the highest total revenue at $80,508, followed by Middle Aged customers ($76,927), Seniors ($72,160), and Adults($71,755). The distribution is notably balanced, though young adults present the strongest opportunity for loyalty  and subscription growth given their higher engagement.
 
-Revenue segmentation by Gender shows a close split between male and female customers, indicating that neither gender is a significantly stronger revenue driver- marketing and inventory descisions should serve both segments equitably.
+Revenue segmentation by gender shows a close split between male and female customers, indicating that neither gender is a significantly stronger revenue driver- marketing and inventory descisions should serve both segments equitably.
 
 ### Subscriptions, Discounts and Loyalty
   Subscribed customers do not spend significantly more on average than non-subscribers. This suggests that the subscription programme may not be tied to purchase incentives. This points to an opportunity to redesign the programme with spend-based rewards or exclusive access.
 
-  When it comes to discounts, the analysis reveals that certain items - particularly within the Clothing and Accessories categories- are purchased predominantly with a discount applied. There are also a significant number of customers who used discount codes yet spent more than the average spend, confirming that discounting can attract moderate-to-high value customers when applied strategically rather than broadly.
+  When it comes to discounts, the analysis reveals that certain items - particularly within the Clothing and Accessories categories- are purchased predominantly with a discount applied. There are also a significant number of customers who use discount codes yet spend more than the average spend, confirming that discounting can attract moderate-to-high value customers when applied strategically rather than broadly.
 
   Among customers within the returning tier, the split between subscribed and non-subscribed is notable- repeat buyers are not reliably converting to subscriptions, further emphasizing customers may not see the values in the subcription packages offered.
 
